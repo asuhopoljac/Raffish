@@ -5,3 +5,8 @@ $help
 $nuke help
 or $help nuke
 you figure it out dumbass
+------------------------------------
+i mean it works well i destroyed a few servers
+
+
+
