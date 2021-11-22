@@ -1202,4 +1202,4 @@ async def on_message(message):
             
 
 
-client.run('ODk2OTI0Mjc2ODgyNTU0OTQw.YWOL0w.7VDKc0aVFL2HswdYAZWdjCzYVGs')
+client.run('yourtokenhere')
