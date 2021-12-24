@@ -5,7 +5,7 @@ So basically this is a discord nuke bot that is disguised as a real bot - its ca
 
 Pre-README
 -----------------------
-Just know that since I am dumb and lazy, I didnt make a loopy-thingy or whatever to make the Nukebot spam (I know I sound professional dont I?), so instead I just copied and pasted a ton of lines, resulting in >1000 lines of code - dont blame me, not like your dumbass can do better... (Actually i think you can)
+Just know that since I am dumb and lazy, I didnt make a loopy-thingy or whatever to make the Nukebot spam (I know I sound professional dont I?), so instead I just copied and pasted a ton of lines, resulting in an excess of 6000 fucking lines of code - dont blame me, not like your dumbass can do better... (Actually i think you can)
 
 Installation or download or prep or whatever you want to f--king call it
 -------------------------------
