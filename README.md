@@ -43,3 +43,9 @@ $nuke trashcan (this is about three times bigger the the rape nuke, but in addit
 You can change what the nukes say in lines 12-15, you can edit the variables and that will be what the bot spams, making the changing the text being spammed much easier
 
 Just to be a bit funny and annoy users, i made the bot say "yeah... nah." every time it detects someone that is not a bot say "yeah", you can change what the keyword it dectects is (on line 9 \ nine) and you can change what it replies when detected (line 6016 / six-thousand and sixteen).
+
+Dont forget to add your token at the bottom :)'
+
+enjoy chaos
+
+- asuhopoljac
