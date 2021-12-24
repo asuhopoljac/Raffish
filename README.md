@@ -26,11 +26,19 @@ Usage or how to turn on or commands or whatever
 -----------------------------------------------------
 what am i doing with my life
 
-Basically the commands are $help (For the fake server moderation commands)
+Basically, there a few fake moderation commands you can use to disguse this bot, its juts simple ones, like fake anti raid, fake server scan, and such - do $help to see them all and get a good explanation
 
-and $help nuke (the sexy part)
+As for the juicy nuking part, there are 4 nuking variants, they go as follows:
 
-yeah thats it, from there figure it out, im not going to baby sit you again
+$nuke small (a small nuke)
 
+$nuke big (obviously, a bigger nuke)
 
+$nuke rape (this is a HUGE, and i mean HUGE nuke)
 
+$nuke trashcan (this is about three times bigger the the rape nuke, but in addition, it creates channels, absolutely trashing the server in question)
+
+**IMPORTANT NOTE**
+You can change what the nukes say in lines 12-15, you can edit the variables and that will be what the bot spams, making the changing the text being spammed much easier
+
+Just to be a bit funny and annoy users, i made the bot say "yeah... nah." every time it detects someone that is not a bot say "yeah", you can change what the keyword it dectects is (on line 9) and you can change what it replies when detected (line ).
