@@ -38,6 +38,9 @@ $nuke rape (this is a HUGE, and i mean HUGE nuke)
 
 $nuke trashcan (this is about three times bigger the the rape nuke, but in addition, it creates channels, absolutely trashing the server in question)
 
+$help nuke is a thing too
+
+
 **IMPORTANT NOTE**
 
 You can change what the nukes say in lines 12-15, you can edit the variables and that will be what the bot spams, making the changing the text being spammed much easier
