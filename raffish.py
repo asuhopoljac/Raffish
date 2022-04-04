@@ -101,6 +101,8 @@ async def on_message(message):
 
     
     if message.content == ("$nuke small"):
+        print ("~")
+        print ("Small Nuke: INITIATED")
         await message.channel.send (nukesmall)
         await message.channel.send (nukesmall)
         await message.channel.send (nukesmall)
@@ -255,6 +257,8 @@ async def on_message(message):
 
         
     if message.content == ("$nuke big"):
+        print ("~")
+        print ("Big Nuke: INITIATED")
         await message.channel.send (nukebig)
         await message.channel.send (nukebig)
         await message.channel.send (nukebig)
@@ -812,6 +816,8 @@ async def on_message(message):
         
     
     if message.content == ("$nuke rape"):
+        print ("~")
+        print ("Rape Nuke: INITIATED")
         await message.channel.send (nukerape)
         await message.channel.send (nukerape)
         await message.channel.send (nukerape)
@@ -2413,6 +2419,8 @@ async def on_message(message):
         
 
     if message.content == ("$nuke trashcan"):
+        print ("~")
+        print ("Trashcan Nuke: INITIATED")
         await message.channel.send (nuketrashcan)
         channel = await message.guild.create_text_channel ('get-nuked-lmao')
         await message.channel.send (nuketrashcan)
