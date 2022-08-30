@@ -49,6 +49,9 @@ Just to be a bit funny and annoy users, i made the bot say "yeah... nah." every 
 
 Dont forget to add your token at the bottom :)'
 
+
+(DM ME ON DISCORD FOR ENHANCED VERSION - shorter script, more features, channel deletes, faster response time & more cool shi)
+
 enjoy chaos
 
 - asuhopoljac
