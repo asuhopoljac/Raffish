@@ -1,3 +1,6 @@
+
+
+
 Description
 ----------------------------------
 So basically this is a discord nuke bot that is disguised as a real bot - its called raffish, but yeah thats it, idiot
