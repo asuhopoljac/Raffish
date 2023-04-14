@@ -7,7 +7,7 @@ import random
 # DEFENITIONS
 client = discord.Client()
 keyword = ("yeah")
-# this is the reply keyword ^^
+# this is the reply keyword, scroll 2 bottom for a explanation 
 randomint = random.randint(1, 23)
 # ignore this but keep it ^^
 
@@ -6034,3 +6034,5 @@ async def on_message(message):
 
 
 client.run('YOUR-TOKEN-HERE')
+
+# made by asuhopoljac \(>.<)/
