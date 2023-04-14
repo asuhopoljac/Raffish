@@ -5,7 +5,7 @@ So basically this is a discord nuke bot that is disguised as a real bot - its ca
 
 Pre-README
 -----------------------
-to all the ladies and gents reading this, i take NO responsibility for any harm or damage caused by this, Raffish is a tool that was made for educational purposes only. \(>.<)/
+to all the ladies and gents reading this, i take NO responsibility for any harm or damage caused by this, Raffish is a tool that was made for educational purposes only. \\(>.<)/
 
 Installation or download or prep or whatever you want to f--king call it
 -------------------------------
