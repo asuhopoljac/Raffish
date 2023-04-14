@@ -1,6 +1,3 @@
-
-
-
 Description
 ----------------------------------
 So basically this is a discord nuke bot that is disguised as a real bot - its called raffish, but yeah thats it, idiot
@@ -50,11 +47,11 @@ You can change what the nukes say in lines 12-15, you can edit the variables and
 
 Just to be a bit funny and annoy users, i made the bot say "yeah... nah." every time it detects someone that is not a bot say "yeah", you can change what the keyword it dectects is (on line 9 \ nine) and you can change what it replies when detected (line 6016 / six-thousand and sixteen).
 
-Dont forget to add your token at the bottom :)'
+Dont forget to add your token at the bottom 
 
 
 (DM ME ON DISCORD FOR ENHANCED VERSION - shorter script, more features, channel deletes, faster response time & more cool shi)
 
-enjoy chaos
+enjoy chaos, and stay kawaii
 
-- asuhopoljac
+-- asuhopoljac (>'~')> --
